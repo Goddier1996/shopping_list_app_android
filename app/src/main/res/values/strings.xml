@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">shoppingList</string>
+    <string name="textview">TextView</string>
+
+</resources>
